@@ -1,6 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/MartinsOnuoha/laravel-vue-minimal/master/public/logo.png" width="200"></a></p>
 
-## Laravel-Vue-Minimal
+## Boilerplate-Laravel-8-Vue-Router-Vuex-SPA
 
 Get started quickly with Vue, Vuex, Vue-Router in Laravel 8.
 
